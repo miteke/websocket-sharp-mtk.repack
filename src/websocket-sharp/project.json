@@ -1,0 +1,15 @@
+﻿{
+  "buildOptions": {
+    "outputName": "websocket-sharp",
+  },
+
+  "frameworks": {
+    "net45": {
+      "frameworkAssemblies": {
+        "System.Xml": "4.0.0.0"
+      }
+    }
+  },
+  "version": "1.0.2.20161201",
+  "name": "websocket-sharp-repack"
+}
